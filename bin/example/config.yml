@@ -1,0 +1,9 @@
+scaffolding:
+  name: "${project-name}"
+  files:
+    - main.go
+    - go.mod
+  dirs:
+    - name: utils
+      files:
+        - utils.go
